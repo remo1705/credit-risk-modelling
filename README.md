@@ -224,9 +224,7 @@ The best model (**ExtraTreesClassifier**) achieved the following performance on 
 
 The Streamlit application provides an interactive interface for credit risk prediction. Users can input applicant information and receive instant predictions.
 
-![Streamlit App Demo](demo.png)
-
-*Note: Add a screenshot of your Streamlit app here, or describe the interface: "The app features a clean, user-friendly interface with input fields for all applicant features and displays predictions with color-coded results (green for GOOD, red for BAD credit risk)."*
+![Streamlit App Demo](assets/demo.png)
 
 ## Future Improvements
 
